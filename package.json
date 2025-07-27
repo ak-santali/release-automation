@@ -1,0 +1,16 @@
+{
+  "name": "release-automation",
+  "version": "1.0.0",
+  "description": "Release automation using release-it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "release-it": "^19.0.4"
+  }
+}
