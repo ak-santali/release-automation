@@ -36,3 +36,32 @@ npm i -D release-it
 ```bash
 export GITHUB_TOKEN="ghp_fMOBxoFjphqx5pv9Qq5BN1KymnpgYK1AgW3"
 ```
+
+#### 4. Release it
+
+```bash
+npm run release
+```
+
+#### 5. Interactive mode
+
+```
+🚀 Let's release release-automation (currently at 1.0.0)
+
+Changelog:
+* Add release-it configuration (36d9004)
+* Initial commit (6a9ecba)
+
+✔ Select increment (next version): major (2.0.0)
+
+Changeset:
+ M package-lock.json
+ M package.json
+
+✔ Commit (chore: release v2.0.0)? Yes
+✔ Tag (v2.0.0)? Yes
+✔ Push? Yes
+✔ Create a release on GitHub (Release 2.0.0)? Yes
+🔗 https://github.com/ak-santali/release-automation/releases/tag/v2.0.0
+🏁 Done (in 107s.)
+```
