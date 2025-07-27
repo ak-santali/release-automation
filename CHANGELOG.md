@@ -1,5 +1,17 @@
 # Changelog
 
+# [2.3.0](https://github.com/ak-santali/release-automation/compare/v2.2.0...v2.3.0) (2025-07-27)
+
+
+### Bug Fixes
+
+* fix new bugs ([cfc8457](https://github.com/ak-santali/release-automation/commit/cfc8457d21e88ca4bb2519f45412dbf2616c3233))
+
+
+### Features
+
+* add new features ([45ac610](https://github.com/ak-santali/release-automation/commit/45ac610bf571e16ae9e0ca8d1a756a9060dcb9db))
+
 # [2.2.0](https://github.com/ak-santali/release-automation/compare/v2.1.0...v2.2.0) (2025-07-27)
 
 
