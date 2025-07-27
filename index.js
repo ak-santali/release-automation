@@ -7,3 +7,5 @@ console.log('Fix: Fix a bug');
 console.log('Chore: Fix a typo');
 
 console.log('Add new features');
+
+console.log('Fix new bugs');
