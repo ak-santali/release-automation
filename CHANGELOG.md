@@ -1,5 +1,17 @@
 # Changelog
 
+# [3.0.0](https://github.com/ak-santali/release-automation/compare/v2.3.3...v3.0.0) (2025-07-27)
+
+
+### Performance Improvements
+
+* improve DB lookup speed ([c347d0d](https://github.com/ak-santali/release-automation/commit/c347d0d2584cec09a0d9a7f4ca2e07a1f72716cf))
+
+
+### BREAKING CHANGES
+
+* changed database schema
+
 ## [2.3.3](https://github.com/ak-santali/release-automation/compare/v2.3.2...v2.3.3) (2025-07-27)
 
 ## [2.3.2](https://github.com/ak-santali/release-automation/compare/v2.3.1...v2.3.2) (2025-07-27)
