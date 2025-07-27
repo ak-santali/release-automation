@@ -77,3 +77,26 @@ OR
 ```bash
 npm run release:dry
 ```
+
+### Conventional Changelog plugin for release-it
+
+This plugin will provide the recommended bump to release-it, and update the changelog file (e.g. CHANGELOG.md).
+
+#### 1. Install
+
+```bash
+npm install --save-dev @release-it/conventional-changelog
+```
+
+#### 2. Integrate
+
+```json
+"plugins": {
+  "@release-it/conventional-changelog": {
+    "preset": {
+      "name": "angular"
+    },
+    "infile": "CHANGELOG.md"
+  }
+}
+```
