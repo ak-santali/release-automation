@@ -13,3 +13,4 @@ console.log('Fix new bugs');
 console.log('BREAKING CHANGE');
 console.log('BREAKING CHANGE');
 console.log('BREAKING CHANGE');
+console.log('BREAKING CHANGE');
