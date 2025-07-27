@@ -9,3 +9,5 @@ console.log('Chore: Fix a typo');
 console.log('Add new features');
 
 console.log('Fix new bugs');
+
+console.log('BREAKING CHANGE');
