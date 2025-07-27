@@ -1,6 +1,6 @@
 {
   "name": "release-automation",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Release automation using release-it",
   "main": "index.js",
   "scripts": {
