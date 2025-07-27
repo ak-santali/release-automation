@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "release": "release-it",
-    "release:dry": "release-it --dry-run"
+    "release:dry": "release-it --dry-run",
+    "release:ci": "release-it --ci"
   },
   "keywords": [],
   "author": "",
