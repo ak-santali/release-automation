@@ -65,3 +65,15 @@ Changeset:
 🔗 https://github.com/ak-santali/release-automation/releases/tag/v2.0.0
 🏁 Done (in 107s.)
 ```
+
+#### 6. Dry run
+
+```bash
+npm run release -- --dry-run
+```
+
+OR
+
+```bash
+npm run release:dry
+```
